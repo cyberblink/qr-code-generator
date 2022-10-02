@@ -1,0 +1,1 @@
+<h1><center>QR CODE GENERATOR#️⃣</center></h1>
